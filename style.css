@@ -1,5 +1,57 @@
-header{
+*{
+    margin: 0;
+
+    
+}
+.cabecalho-inteiro{
     background-color: #0601F6;
     color: rgb(253, 236, 0);
+    display: flex;
+    align-items: center;
+    font-size: 95%;
+    margin: 0%;
+    padding: 0%;
+
+   
+     }
+
+
+
+.cabecalho{
+    width: 100%;
+    margin: 0 0;
+    padding: 10%;
+}
+.cabecalho-imagem {
+    width: 12%;
+padding-left: 4%;
+}
+
+.segundo{
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    padding: 1%;
+    align-items: center;
+    padding-left: 2%;
+}
+.terceiro{
+    background-color:aquamarine;
+    color: black;
+    padding-left: 2%;
+}
+.quarto{
+    background-color:#0601F6;
+    color: rgb(253, 236, 0);
+    padding: 1%;
+    padding-left: 2%;
+}
+.quinto{
+    background-color: #0601F6;
+    color: black;
+    padding-left: 2%;
+    
+}
+.sexto{
+    background-color: #0601F6;
 }
 
